@@ -1,0 +1,12 @@
+<h1>ADMIN VIEW</h1><h2><span class="glyphicon glyphicon-shopping-cart"></span></h2>
+
+<div class="storePhotos">
+  <ul id="storeList" ng-repeat="product in adminCtrl.products">
+      <li class="col-md-4" >
+        <h2>{{product.title}} : {{product.price | currency}}</h2>
+        <img id="productImage" ng-src="{{product.picture}}" alt="" />
+        <h4><em>{{product.description}}</em></h4>
+        <button ng-click="adminCtrl.addToStore(product)" type="button" name="addCart">Add to Store</button>
+      </li>
+  </ul>
+</div>

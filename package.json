@@ -1,0 +1,17 @@
+{
+  "name": "gb_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-cookies": "^1.4.8",
+    "angular-route": "^1.4.8",
+    "node-sass": "^3.4.2"
+  }
+}

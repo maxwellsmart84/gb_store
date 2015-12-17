@@ -1,0 +1,12 @@
+<h1>Welcome to the Ghostbusters Compendium</h1><h2><span class="glyphicon glyphicon-shopping-cart"></span></h2>
+
+<div class="storePhotos">
+  <ul id="storeList" ng-repeat="product in storeCtrl.products">
+      <li class="col-md-4" >
+        <h2>{{product.title}} : {{product.price | currency}}</h2>
+        <img id="productImage" ng-src="{{product.picture}}" alt="" />
+        <h4><em>{{product.description}}</em></h4>
+        <button type="button" ng-click= "storeCtrl.addToCart" name="addCart">Add to Cart</button>
+      </li>
+  </ul>
+</div>

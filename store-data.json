@@ -1,0 +1,37 @@
+[{
+	"id": 1,
+	"title": "Proton Pack: Standard Issue",
+	"price": 150000,
+	"picture": "http://www.gbfans.com/images/store/m/221_4983122395.jpg",
+	"description": "Standard Issue Proton Pack, 100 of these ever made, newer model has much more market saturation.  This is a collector's item but also fully functional.  *Licensing fee for actual use not included"
+}, {
+	"id": 2,
+	"title": "Ghost Trap 3000X",
+	"price": 800,
+	"picture": "http://www.propbay.com/attachments/original/6617d1351648589-ghostbusters-hero-ghost-trap-ghostbusters_1_ghost_trap_2.jpg",
+	"description": "Standard Issue Ghost trap for catching ghosts.  Never look directly into the trap while it is open."
+}, {
+	"id": 3,
+	"title": "Proton Pack: 2.0",
+	"price": 5000,
+	"picture": "http://img05.deviantart.net/0d05/i/2010/192/4/e/video_game_proton_pack_by_darkjedi1500.jpg",
+	"description": "Upgraded Proton Pack, each made to order.  Feature several firing modes indluding: Slime, Ionic Blast, Proton Stream and EMP.  Cool down safety function, no license required."
+}, {
+	"id": 4,
+	"title": "PKE Meter",
+	"price": 600,
+	"picture": "http://geek-news.mtv.com/wp-content/uploads/2010/11/pke-fully-extended.jpg",
+	"description": "Standard issue PKE Meter.  Tracks negative energy particles in several different metrics."
+}, {
+	"id": 5,
+	"title": "Ecto Goggles (refurb)",
+	"price": 3000,
+	"picture": "http://orig00.deviantart.net/7392/f/2013/257/c/7/custom_ghostbuster_ecto_goggles_by_firebladecomics-d6mc6rd.jpg",
+	"description": "*This is a used item.  Good mileage, 12 in stock.  No refunds."
+}, {
+	"id": 6,
+	"title": "Slime-resistant Coveralls and Protective Gear",
+	"price": 500,
+	"picture": "http://i6.photobucket.com/albums/y202/Loosetoon/Ghostbusters/OurSuits_sm.jpg",
+	"description": "Don't bust ghosts without it - these slime-resistant jumpsuits will protect any wearer from the mood swings associated with negative slime energy.  Kneepads/elbowpads/belt included."
+}]
